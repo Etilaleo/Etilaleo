@@ -4,7 +4,7 @@ I'm Leonard Etila, an enthusiastic learner exploring new fields and trying to be
 ## About Myself
 * 👨‍🎓An undergraduate pursuing B.Eng. in Computer Engineering in Ecole Superuire De Management, Benin
 * 🔬I'm currently working on **My Portfolio**
-* 🌱I'm currently leaerning **Coroutines & Clean Architecture**
+* 🌱I'm currently learning **Coroutines & Clean Architecture**
 * 💬 Ask me about **Android, Kotlin**
 * 👯 I’m looking to collaborate on **Android Projects**
 * 📪 How to reach me etilaleonard25@gmail.com 
