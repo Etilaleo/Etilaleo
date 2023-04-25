@@ -1,5 +1,5 @@
 ## <p align = center>Hi 👋, nice to meet you</p>
-I'm Leonard Etila, an enthusiastic learner exploring new fields and trying to be the best in my interested fields
+<p align = "center">I'm Leonard Etila, an enthusiastic learner exploring new fields and trying to be the best in my interested fields</p>
 
 ## About Myself
 * 👨‍🎓An undergraduate pursuing B.Eng. in Computer Engineering in Ecole Superuire De Management, Benin
